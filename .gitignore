@@ -1,0 +1,2 @@
+# 忽略JupyterNotebook自動保存檢查檔
+.ipynb_checkpoints
